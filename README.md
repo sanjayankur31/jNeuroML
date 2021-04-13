@@ -6,6 +6,7 @@ jNeuroML
 [![GitHub issues](https://img.shields.io/github/issues/NeuroML/jNeuroML)](https://github.com/NeuroML/jNeuroML/issues)
 [![GitHub Org's stars](https://img.shields.io/github/stars/NeuroML?style=social)](https://github.com/NeuroML)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NeuroML?style=social)](https://twitter.com/NeuroML)
+[![Gitter](https://img.shields.io/gitter/room/NeuroML/Community)](https://gitter.im/NeuroML/community)
 
 
 There are a number of repositories in active development under GitHub for handling [NeuroML](https://github.com/NeuroML) 
